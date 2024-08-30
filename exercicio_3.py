@@ -24,7 +24,7 @@ def calcular_faturamento(dados):
     print(f"numero de dias com faturamento acima da media mensal: {dias_acima_da_media}")
 
 # carregando os dados do .json
-dados_faturamento = dados_json('exercicio_3_completo/faturamento.json')
+dados_faturamento = dados_json('faturamento.json')
 
 # calculado a media
 calcular_faturamento(dados_faturamento)
