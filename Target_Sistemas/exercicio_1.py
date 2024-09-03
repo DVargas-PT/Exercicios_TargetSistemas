@@ -10,3 +10,5 @@ while K < INDICE:
 
 # imprimir o valor da SOMA
 print("o valor final de SOMA e:", SOMA)
+
+# fez eu lembrar de eu no primeiro periodo de ads fazendo as litas exercicios em C kkkkkkkkkkkkk xD
