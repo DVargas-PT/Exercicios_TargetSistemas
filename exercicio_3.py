@@ -10,6 +10,8 @@ def dados_json(arquivo):
 def calcular_faturamento(dados):
     faturamentos = [dia["faturamento"] for dia in dados if dia["faturamento"] > 0]
     
+
+    # um pouco dificil de acontecer, concordemos 
     if not faturamentos:
         print("nao houve faturamento em nenhum dia.")
         return
