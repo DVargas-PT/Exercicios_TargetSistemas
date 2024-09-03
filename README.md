@@ -7,42 +7,40 @@
 # Exercícios de Python - TargetSistemas 
 
 ## Visão Geral
-Olá! Este repositório contém 5 exercícios desenvolvidos em Python utilizando o VSCode. Devido a um erro na plataforma original, tive que utilizar valores fictícios para realizar os exercícios, mas agora estão atualizados com os dados fornecidos.
+Ola! Este repositorio contem 5 exercicios desenvolvidos em Python utilizando o VSCode. Devido a um erro na plataforma original, tive que utilizar valores ficticios para realizar os exercicios, mas agora estao atualizados com os dados fornecidos.
 
-## Instruções
-Ao abrir o repositório, siga os passos abaixo para acessar e analisar os exercícios:
-
+## Instrucões
+Ao abrir o repositorio, siga os passos abaixo para acessar e analisar os exercicios:
 
 1. **Acesse a Branch Correta**:
-   - Clique na branch `main` e altere para a branch `master` para acessar os exercícios corrigidos.
-   - ![Instrução 1](exp2.png)
+   - Clique na branch `main` e altere para a branch `master` para acessar os exercicios corrigidos.
+   - ![Instrucão 1](exp2.png)
 
 2. **Localize os Exercícios**:
-   - Os exercícios podem ser encontrados na branches `master`.
-   - ![Instrução 2](exp3.png)
+   - Os exercicios podem ser encontrados na branches `master`.
+   - ![Instrucão 2](exp3.png)
 
-3. **Correção e Feedback**:
-   - Ao revisar os exercícios, sinta-se à vontade para adicionar comentários ou anotacões diretamente no código.
-   - ![Instrução 3](exp4.png)
+3. **Correcão e Feedback**:
+   - Ao revisar os exercicios, sinta-se a vontade para adicionar comentarios ou anotacões diretamente no codigo.
+   - ![Instrucão 3](exp4.png)
 
 ## Tecnologias Utilizadas
-- ![Python](https://img.shields.io/badge/Python-3.8-blue?style=flat-square&logo=python&logoColor=white) **Python**: Linguagem de programacão utilizada para o desenvolvimento dos exercícios.
-- ![VSCode](https://img.shields.io/badge/VSCode-1.59.0-blue?style=flat-square&logo=visual-studio-code&logoColor=white) **VSCode**: Editor de código utilizado.
+- ![Python](https://img.shields.io/badge/Python-3.8-blue?style=flat-square&logo=python&logoColor=white) **Python**: Linguagem de programacão utilizada para o desenvolvimento dos exercicios.
+- ![VSCode](https://img.shields.io/badge/VSCode-1.59.0-blue?style=flat-square&logo=visual-studio-code&logoColor=white) **VSCode**: Editor de codigo utilizado.
 
 ## Observacões
-- Caso tenha qualquer dúvida ou precise de mais informacões sobre a implementacão dos exercícios, por favor, entre em contato.
-- Agradeco pela atencão e pela analise dos exercícios!
+- Caso tenha qualquer duvida ou precise de mais informacões sobre a implementacão dos exercicios, por favor, entre em contato.
+- Agradeco pela atencão e pela analise dos exercicios!
 
 ## Contato
-Se precisar de mais informacões ou tiver alguma dúvida, você pode me contatar através de:
+Se precisar de mais informacões ou tiver alguma duvida, voce pode me contatar atraves de:
 
-- **E-mail**: [danilovargas@alunos.utfpr.edu.br](danilovargas@alunos.utfpr.edu.br).
-- Clicando na foto, é redirecionado para o meu linkdin.
+- **E-mail**: [danilovargas@alunos.utfpr.edu.br](mailto:danilovargas@alunos.utfpr.edu.br).
+- Clicando na foto, voce sera redirecionado para o meu LinkedIn.
   
 <a href="https://www.linkedin.com/in/danilo-silva-vargas-b407512aa/"><img src="WIN_20240624_18_25_58_Pro.jpg" alt="foto_eu" width="180"></a>
 
 
 ---
 
-**Nota**: Desculpe a ausência de cedilhas, o teclado que comprei veio no padrão americano, então nao possui cecidilha kkkkkkk xD.
-
+**Nota**: Desculpe a ausencia de cedilhas, o teclado que comprei veio no padrao americano, entao nao possui cecidilha kkkkkkk xD.
